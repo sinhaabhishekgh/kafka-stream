@@ -1,0 +1,11 @@
+{"account":"ACC-1234","instrument":"XYZ","quantity":150,"trades":[1234]}
+{"account":"ACC-2345","instrument":"QED","quantity":0,"trades":[5678]}
+{"account":"ACC-3456","instrument":"RET","quantity":0,"trades":[2233]}
+{"account":"ACC-4567","instrument":"YUI","quantity":200,"trades":[8896,6638]}
+{"account":"ACC-5678","instrument":"HJK","quantity":50,"trades":[6363,7666]}
+{"account":"ACC-6789","instrument":"GBN","quantity":100,"trades":[8686]}
+{"account":"ACC-6789","instrument":"FVB","quantity":200,"trades":[9654,8686]}
+{"account":"ACC-7789","instrument":"JKL","quantity":100,"trades":[1036,1025]}
+{"account":"ACC-8877","instrument":"JKL","quantity":-100,"trades":[1025]}
+{"account":"ACC-9045","instrument":"KLO","quantity":0,"trades":[1122,1144,1155]}
+{"account":"ACC-9045","instrument":"HJK","quantity":-100,"trades":[1122]}
